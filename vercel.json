@@ -3,7 +3,7 @@
    "builds": [
     {
         "scr": "app.py",
-        "use": "@vercel/python0"
+        "use": "@vercel/python"
     
     }
    ],
